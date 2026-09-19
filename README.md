@@ -1,26 +1,72 @@
-# Parsi-Aripa
-A modern writing system built upon the foundations of Old and Neo-Avestan.
-# Parsi Aripa Font (فونت پارسی آریپا)
 
-> A modern script built upon Old Avestan and Neo-Avestan.
+# پارسی-آریپا
+
+یک دبیره نو برای نوشتن پارسی که بر پایه و با نگرش به دبیره‌های اوستای کهن و اوستای نوین ساخته شده است.
+
+## دبیره و فونت پارسی آریپا
+
+> دبیره‌ای نو برای پارسی، با نگرش به دبیره اوستای کهن و اوستای نوین.
 
 ---
 
 <p align="center">
-  <b>Notice:</b> More tutorials and tools for this font and script will be released soon.
+  <b>توجه:</b>
+  آموزش‌ها و ابزارهای بیشتری برای این دبیره و فونت در آینده افزوده خواهد شد.
 </p>
 
 <p align="center">
-  To use this script, simply apply the <b>Parsi Aripa</b> font. It is fully compatible with the standard Persian keyboard layout and Persian-Arabic character sets.
+  برای بهره‌گیری از این دبیره، کافی است فونت <b>Parsi Aripa</b> را به کار ببرید.
+  این فونت با چیدمان استاندارد صفحه‌کلید پارسی و نویسه‌های پارسی-عربی سازگار است.
 </p>
 
 ---
 
-## 🚀 Quick Start / راهنمای سریع
+## 🚀 راهنمای سریع
 
-1. Download the `ParsiAripa.ttf` file from the repository.
-2. Install the font on your OS (Windows / Linux / macOS).
-3. Select **Parsi Aripa** in your text editor and start typing with your standard Persian keyboard!
+1. فایل `ParsiAripa.ttf` را از همین ریپوزیتوری دریافت کنید.
+2. فونت را در سامانه خود (ویندوز / لینوکس / مک) نصب کنید.
+3. فونت **Parsi Aripa** را در نرم‌افزار نوشتاری خود برگزینید.
+4. با همان صفحه‌کلید استاندارد پارسی آغاز به نوشتن کنید.
+
+---
+
+## 📖 آموزش
+
+برای آشنایی با ساختار دبیره، نویسه‌ها، واج‌ها و شیوه نوشتن پارسی آریپا می‌توانید آموزش پایه آن را دریافت کنید:
+
+**[دریافت فایل PDF آموزش پایه پارسی آریپا](http://aripapars.top/wp-content/uploads/2026/09/AmozeshPayeParsiAripa.pdf)**
+
+---
+
+## 🌐 پیوندها
+
+- **[وبگاه آریپا پارس ](https://aripapars.top/)**
+- **[جستار پارسی آریپا](https://aripapars.top/parsiaripa/)**
+- **[کانال تلگرام پارسی آریپا](https://t.me/ParsiAripa)**
+- **[فونت و ریپوزیتوری پارسی آریپا در گیت‌هاب](https://github.com/AripaStudio/Parsi-Aripa)**
+
+---
+
+## 📜 درباره پارسی آریپا
+
+پارسی آریپا دبیره‌ای است که با نگرش به دبیره‌های اوستای کهن و اوستای نوین ساخته شده و در آن برخی از واج‌ها و ریخت‌های نویسه‌ها دگرگون، برخی زدوده و برخی نیز افزوده شده‌اند.
+
+این دبیره دارای **۳۲ واج** است و کوشش شده است واکه‌های پارسی امروزی نیز در آن بازتاب داشته باشند.
+
+هدف از ساخت آن، ساخت یک دبیره نو برای پارسی است که بتواند در کنار دبیره کنونی پارسی به کار رود و گسترش آن آزادانه باشد؛ به گونه‌ای که دیگران نیز بتوانند برای آن فونت، ابزار یا نوشتار بسازند.
+
+---
+
+## 🪶 نام پارسی آریپا
+
+نام این دبیره «پارسی آریپا» است و این پروژه همچنان در حال گسترش و دگرگونی است.
+
+اگر پیشنهادی برای بهتر شدن این دبیره یا فونت آن دارید، خوشنود می‌شوم آن را با من در میان بگذارید.
+
+---
+
+**پارسی آریپا — یک دبیره نو برای پارسی**
+
 
 ## Example : 
 <img width="1003" height="313" alt="image" src="https://github.com/user-attachments/assets/f4d79ecf-c541-44f2-83c3-9f5efad1bfa0" />
